@@ -4,7 +4,7 @@ This repository contains the analysis and insights derived from the performance 
 #Overview
 This project aims to provide a comprehensive analysis of Plant Co.'s performance, focusing on sales quantities, gross profit percentages, and changes in performance over time. The analysis is conducted using data visualizations created in Power BI.
 
-#Key Metrics
+# Key Metrics
 - Gross Profit Percentage (GP%)
 - Sales Quantity
 - Total YTD Sales Quantity
@@ -12,7 +12,7 @@ This project aims to provide a comprehensive analysis of Plant Co.'s performance
 - Country-wise Performance
 - Bottom 10 Countries YTD vs PYTD
 
-Visualization
+# Visualization
 The Power BI file contains various visualizations to help understand the performance data better. These include:
 
 - Monthly sales trends
